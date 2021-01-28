@@ -1,0 +1,635 @@
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PTNPV7L');</script>
+    <!-- End Google Tag Manager -->
+    <title>Welcome To Built-In Developers</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+
+    <!-- External CSS libraries -->
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/animate.min.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap-submenu.css">
+
+    <link rel="stylesheet" type="text/css" href="css/bootstrap-select.min.css">
+    <link rel="stylesheet" type="text/css" href="css/magnific-popup.css">
+    <link rel="stylesheet" href="css/leaflet.css" type="text/css">
+    <link rel="stylesheet" href="css/map.css" type="text/css">
+    <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="fonts/flaticon/font/flaticon.css">
+    <link rel="stylesheet" type="text/css" href="fonts/linearicons/style.css">
+    <link rel="stylesheet" type="text/css"  href="css/jquery.mCustomScrollbar.css">
+    <link rel="stylesheet" type="text/css"  href="css/dropzone.css">
+    <link rel="stylesheet" type="text/css"  href="css/slick.css">
+
+    <!-- Custom stylesheet -->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" id="style_sheet" href="css/skins/default.css">
+
+    <!-- Favicon icon -->
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" >
+
+    <!-- Google fonts -->
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,300,700">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link rel="stylesheet" type="text/css" href="css/ie10-viewport-bug-workaround.css">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script  src="js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script  src="js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script  src="js/html5shiv.min.js"></script>
+    <script  src="js/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PTNPV7L"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="page_loader"></div>
+
+<!-- Main header start -->
+
+<!-- Main header end -->
+
+<!-- Banner start -->
+<div class="banner" id="banner">
+    <div id="bannerCarousole" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item banner-max-height active">
+                <img class="d-block w-100" src="img/banner/banner-2.jpg" alt="banner">
+                <div class="carousel-caption banner-slider-inner d-flex h-100 text-center">
+                    <div class="carousel-content container">
+                        <div class="text-center">
+                            <h3 class="text-uppercase">Welcome To Built-In Developers</h3>
+                            <p>
+                               
+                            </p>
+                           
+                                    
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item banner-max-height">
+                <img class="d-block w-100" src="img/banner/banner-1.jpg" alt="banner">
+                <div class="carousel-caption banner-slider-inner d-flex h-100 text-center">
+                    <div class="carousel-content container">
+                        <div class="text-center">
+                            <h3 class="text-uppercase">Find Your Property</h3>
+                            <p>
+                                "Our principles are built on providing financial security,customer satifaction and delivering promises"
+                            </p>
+        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+       
+            
+        </a>
+    </div>
+   
+</div>
+<!-- Banner end -->
+
+<!-- Search Section start -->
+<div class="search-section search-area pb-hediin-12 bg-grea animated fadeInDown" id="search-style-1">
+    <div class="container">
+        <div class="search-section-area">
+            <div class="search-area-inner">
+                <div class="search-contents">
+                    <form method="GET">
+                        <div class="row">
+                            <div class="col-lg-4 col-md-6 col-sm-6 col-6">
+                                <div class="form-group">
+                                    <select class="selectpicker search-fields" name="any-status">
+                                        <option>Any Status</option>
+                                        <option>For Rent</option>
+                                        <option>For Sale</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 col-sm-6 col-6">
+                                <div class="form-group">
+                                    <select class="selectpicker search-fields" name="all-type">
+                                        <option>All Type</option>
+                                        <option>Apartments</option>
+                                        <option>Shop</option>
+                                        <option>Restaurant</option>
+                                        <option>Villa</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 col-sm-6 col-6">
+                                <div class="form-group">
+                                    <select class="selectpicker search-fields" name="bedrooms">
+                                        <option>Bedrooms</option>
+                                        <option>1</option>
+                                        <option>2</option>
+                                        <option>3</option>
+                                        <option>4</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 col-sm-6 col-6">
+                                <div class="form-group">
+                                    <select class="selectpicker search-fields" name="bathrooms">
+                                        <option>Bathrooms</option>
+                                        <option>1</option>
+                                        <option>2</option>
+                                        <option>3</option>
+                                        <option>4</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 col-sm-6 col-6">
+                                <div class="form-group">
+                                    <select class="selectpicker search-fields" name="location">
+                                        <option>location</option>
+                                        <option>United States</option>
+                                        <option>American Samoa</option>
+                                        <option>Belgium</option>
+                                        <option>Canada</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 col-sm-6 col-6">
+                                <div class="form-group">
+                                    <button class="search-button">Search</button>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Search Section end -->
+
+<!-- Featured Properties start -->
+<div class="featured-properties content-area">
+    <div class="container">
+        <!-- Main title -->
+        <div class="main-title">
+            <h1>Why Built-In Developers</h1>
+            <p style="font-weight: bold;">"Turn your dreams in to reality"</p>
+            <br>
+<p></p>
+Built-in Developers are top and very unique developers & builders in Karnataka and Hyderabad with over decades of experience in the real estate sector,  has established itself as a premier residential property developer in hubbali and Bangalore. And we had a vision that was way ahead of its time. Today it is synonymous with unparalleled trust. As the saying "seeing is believing " and we believe that our works speaks for themselves.</p>
+        </div>
+        <!-- Slick slider area start -->
+        <div class="slick-slider-area">
+            <div class="row slick-carousel" data-slick='{"slidesToShow": 3, "responsive":[{"breakpoint": 1024,"settings":{"slidesToShow": 2}}, {"breakpoint": 768,"settings":{"slidesToShow": 1}}]}'>
+                <div class="slick-slide-item">
+                    <div class="property-box">
+                        <div class="property-thumbnail">
+                            <a href="properties-details.html" class="property-img">
+                                <div class="listing-badges">
+                                    <span class=""></span>
+                                </div>
+                                <div class="price-box"><span></span> </div>
+                                <img class="d-block w-100" src="img/properties/properties-1.jpg" alt="properties">
+                            </a>
+                        </div>
+                        <div class="detail">
+                            <h1 class="title">
+                                <a href="properties-details.html"></a>
+                            </h1>
+
+                            <div class="location">
+                                <a href="properties-details.html">
+                                    <i class="flaticon-pin"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- <ul class="facilities-list clearfix">
+                            
+                        </ul> -->
+                        <!-- <div class="footer">
+                            <a href="#">
+                                <i class="flaticon-people"></i> 
+                            </a>
+                            <span>
+                                <i class="flaticon-calendar"></i>
+                            </span>
+                        </div> -->
+                    </div>
+                </div>
+                <div class="slick-slide-item">
+                    <div class="property-box">
+                        <div class="property-thumbnail">
+                            <a href="properties-details.html" class="property-img">
+                                <div class="listing-badges">
+                                    <span class=""></span>
+                                </div>
+                                <div class="price-box"><span></span></div>
+                                <img class="d-block w-100" src="img/properties/properties-2.jpg" alt="properties">
+                            </a>
+                        </div>
+                        <div class="detail">
+                            <h1 class="title">
+                                <a href="properties-details.html"></a>
+                            </h1>
+
+                            <div class="location">
+                                <a href="properties-details.html">
+                                    <i class="flaticon-pin"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- <ul class="facilities-list clearfix">
+                          
+                        </ul> -->
+                       
+                    </div>
+                </div>
+                <div class="slick-slide-item">
+                    <div class="property-box">
+                        <div class="property-thumbnail">
+                            <a href="properties-details.html" class="property-img">
+                                <div class="listing-badges">
+                                    <span class=""></span>
+                                </div>
+                                <div class="price-box"><span></span> </div>
+                                <img class="d-block w-100" src="img/properties/properties-3.jpg" alt="properties">
+                            </a>
+                        </div>
+                        <div class="detail">
+                            <h1 class="title">
+                                <a href="properties-details.html"></a>
+                            </h1>
+
+                            <div class="location">
+                                <a href="properties-details.html">
+                                    <i class="flaticon-pin"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- <ul class="facilities-list clearfix">
+                           
+                        </ul> -->
+                        <!-- <div class="footer">
+                            <a href="#">
+                                <i class="flaticon-people"></i> 
+                            </a>
+                            <span>
+                                <i class="flaticon-calendar"></i>
+                            </span>
+                        </div> -->
+                    </div>
+                </div>
+                <div class="slick-slide-item">
+                    <div class="property-box">
+                        <div class="property-thumbnail">
+                            <a href="properties-details.html" class="property-img">
+                                <div class="listing-badges">
+                                    <span class=""></span>
+                                </div>
+                                <div class="price-box"><span></span> </div>
+                                <img class="d-block w-100" src="img/properties/properties-4.jpg" alt="properties">
+                            </a>
+                        </div>
+                        <div class="detail">
+                            <h1 class="title">
+                                <a href="properties-details.html"></a>
+                            </h1>
+
+                            <div class="location">
+                                <a href="properties-details.html">
+                                    <i class="flaticon-pin"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- <ul class="facilities-list clearfix">
+                           
+                        </ul> -->
+                        <!-- <div class="footer">
+                            <a href="#">
+                                <i class="flaticon-people"></i> 
+                            </a>
+                            <span>
+                                <i class="flaticon-calendar"></i>
+                            </span>
+                        </div> -->
+                    </div>
+                </div>
+                <div class="slick-slide-item">
+                    <div class="property-box">
+                        <div class="property-thumbnail">
+                            <a href="properties-details.html" class="property-img">
+                                <div class="listing-badges">
+                                    <span class=""></span>
+                                </div>
+                                <div class="price-box"><span></span> </div>
+                                <img class="d-block w-100" src="img/properties/properties-5.jpg" alt="properties">
+                            </a>
+                        </div>
+                        <div class="detail">
+                            <h1 class="title">
+                                <a href="properties-details.html"></a>
+                            </h1>
+
+                            <div class="location">
+                                <a href="properties-details.html">
+                                    <i class="flaticon-pin"></i>
+                                </a>
+                            </div>
+                        </div>
+                        
+                           
+                        </div>
+                    </div>
+                </div>
+                <div class="slick-prev slick-arrow-buton ">
+                    <i class="fa fa-angle-left"></i>
+                </div>
+                <div class="slick-next slick-arrow-buton ">
+                    <i class="fa fa-angle-right"></i>
+                        <div class="detail">
+                            <h1 class="title">
+                                <a href="properties-details.html"></a>
+                            </h1>
+
+                            <div class="location">
+                                <a href="properties-details.html">
+                                    <i class="flaticon-pin"></i>
+                                </a>
+                            </div>
+                        </div>
+                    
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Featured Properties end -->
+
+<!-- Services start -->
+<div class="services content-area bg-grea-3">
+    <div class="container">
+        <!-- Main title -->
+        <div class="main-title text-center">
+            <h1>Working with the Reality</h1>
+            <p>"Our principles are built on providing financial security,customer satifaction and delivering promises"</p>
+        </div>
+        
+                    <p></p>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 d-none d-xl-block d-lg-block">
+                <!-- <div class="service-info">
+                    <div class="icon">
+                        <i class="flaticon-discount"></i>
+                    </div>
+                   
+                </div> -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Services end -->
+
+<!-- Categories strat -->
+<div class="categories content-area-7">
+    <div class="container">
+        <!-- Main title -->
+        <div class="main-title text-center">
+            <h1>Our Projects</h1>
+            <p></p>
+        </div>
+        <div class="row">
+            <div class="col-lg-5 col-md-12 col-sm-12 col-pad">
+                <div class="category">
+                    <div class="category_bg_box category_long_bg cat-4-bg">
+                        <div class="category-overlay">
+                            <div class="category-content">
+                                <h3 class="category-title">
+                                    <a href="#">Apartment</a>
+                                </h3>
+                                <h4 class="category-subtitle"></h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-7 col-md-12 col-sm-12">
+                <div class="row">
+                    <div class="col-sm-6 col-pad">
+                        <div class="category">
+                            <div class="category_bg_box cat-1-bg">
+                                <div class="category-overlay">
+                                    <div class="category-content">
+                                        <h3 class="category-title">
+                                            <a href="properties-list-rightside.html">Form</a>
+                                        </h3>
+                                        <h4 class="category-subtitle"></h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-pad">
+                        <div class="category">
+                            <div class="category_bg_box cat-2-bg">
+                                <div class="category-overlay">
+                                    <div class="category-content">
+                                        <h3 class="category-title">
+                                            <a href="#">House</a>
+                                        </h3>
+                                        <h4 class="category-subtitle"></h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-pad">
+                        <div class="category">
+                            <div class="category_bg_box cat-3-bg">
+                                <div class="category-overlay">
+                                    <div class="category-content">
+                                        <h3 class="category-title">
+                                            <a href="#">Villa</a>
+                                        </h3>
+                                        <h4 class="category-subtitle"></h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-pad">
+                        <div class="category">
+                            <div class="category_bg_box cat-5-bg">
+                                <div class="category-overlay">
+                                    <div class="category-content">
+                                        <h3 class="category-title">
+                                            <a href="#">Restaurant</a>
+                                        </h3>
+                                        <h4 class="category-subtitle"></h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Categories end -->
+
+<!-- Counters strat -->
+<div class="counters overview-bgi">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-3 col-sm-6">
+                <div class="counter-box">
+                    <i class="flaticon-sale"></i>
+                    <h1 class="counter">3</h1>
+                    <p>Listings For Sale</p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-6">
+                <div class="counter-box">
+                    <i class="flaticon-rent"></i>
+                    <h1 class="counter">24</h1>
+                    <p>Current Projects</p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-6">
+                <div class="counter-box">
+                    <i class="flaticon-user"></i>
+                    <h1 class="counter">10</h1>
+                    <p>Agents</p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-6">
+                <div class="counter-box">
+                    <i class="flaticon-work"></i>
+                    <h1 class="counter">9</h1>
+                    <p>Brokers</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Counters end -->
+
+<!-- Our team start -->
+<div class="our-team content-area">
+    <div class="container">
+        <!-- Main title -->
+        <div class="main-title">
+            <h1>Contact Us</h1>
+            <p></p>
+        </div>
+        <!-- Slick slider area start -->
+        <!-- <div class="slick-slider-area"> -->
+            <!-- <div class="row slick-carousel" data-slick='{"slidesToShow": 2, "responsive":[{"breakpoint": 1024,"settings":{"slidesToShow": 2}}, {"breakpoint": 768,"settings":{"slidesToShow": 1}}]}'> -->
+                <div class="slick-slide-item">
+                    
+                        </div>
+                    </div>
+                </div>
+                <div class="slick-slide-item">
+                    <div class="row team-2">
+                        <div class="col-xl-5 col-lg-6 col-md-12 col-sm-12 col-pad">
+                            <div class="photo">
+                                <img src="img/avatar/avatar-9.jpg" alt="avatar-9" class="img-fluid">
+                            </div>
+                        </div>
+                        <div class="col-xl-7 col-lg-6 col-md-12 col-sm-12 col-pad bg align-self-center">
+                            <div class="detail">
+                                <h4>
+                                    <a href="agent-detail.html">Nikhil Mahant</a>
+                                </h4>
+                                <h5>managing director</h5>
+                                <div class="contact">
+                                    <ul>
+                                        <li>
+                                            
+                                        </li>
+                                        <li>
+                                            <i class="flaticon-mail"></i><a href="mailto:nsmahant@gmail.com">nsmahant@gmail.com</a>
+                                        </li>
+                                        <li>
+                                            <i class="flaticon-phone"></i><a href="tel:+919731712357"> +919731712357</a>
+                                        </li>
+                                    </ul>
+                                </div>
+
+                            
+                 
+            <!-- <div class="slick-prev slick-arrow-buton">
+                <i class="fa fa-angle-left"></i>
+            </div>
+            <div class="slick-next slick-arrow-buton">
+                <i class="fa fa-angle-right"></i> -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Our team end -->
+
+
+<!-- Full Page Search -->
+<div id="full-page-search">
+    <button type="button" class="close">×</button>
+    <form action="index.html#">
+        <input type="search" value="" placeholder="type keyword(s) here" />
+        <button type="submit" class="btn btn-sm button-theme">Search</button>
+    </form>
+</div>
+
+<script src="js/jquery-2.2.0.min.js"></script>
+<script src="js/popper.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script  src="js/bootstrap-submenu.js"></script>
+<script  src="js/rangeslider.js"></script>
+<script  src="js/jquery.mb.YTPlayer.js"></script>
+<script  src="js/bootstrap-select.min.js"></script>
+<script  src="js/jquery.easing.1.3.js"></script>
+<script  src="js/jquery.scrollUp.js"></script>
+<script  src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+<script  src="js/leaflet.js"></script>
+<script  src="js/leaflet-providers.js"></script>
+<script  src="js/leaflet.markercluster.js"></script>
+<script  src="js/dropzone.js"></script>
+<script  src="js/slick.min.js"></script>
+<script  src="js/jquery.filterizr.js"></script>
+<script  src="js/jquery.magnific-popup.min.js"></script>
+<script  src="js/jquery.countdown.js"></script>
+<script  src="js/maps.js"></script>
+<script  src="js/app.js"></script>
+<script src="https://kit.fontawesome.com/3a4f9a31c8.js" crossorigin="anonymous"></script>
+
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<script  src="js/ie10-viewport-bug-workaround.js"></script>
+<!-- Custom javascript -->
+<script  src="js/ie10-viewport-bug-workaround.js"></script>
+</body>
+</html>
